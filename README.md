@@ -1,11 +1,11 @@
 
-  # Demo
+  # Collaborative Marketplace Application
   
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  Providing a demonstration.
+  
   
   ## Table of Contents
   
@@ -19,12 +19,12 @@
   ## Installation
   
   ```
-  1. 2. 3. 4. 5. 
+  
   ```
   
   ## Usage
   
-  Showing functionality
+  
   
   ## License
   
@@ -32,17 +32,17 @@
   
   ## Contributing
   
-  abcdefg
+  
   
   ## Tests
   
   To run tests, run the following command:
   
   ```
-  123456789
+  
   ```
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at 123@web.com. You can find more of my work at [nightrider](https://github.com/nightrider/).
+  If you have any questions about the repo, open an issue or contact me directly at user.company@email.com. You can find more of my work at [user](https://github.com/user/).
   
